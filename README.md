@@ -39,7 +39,7 @@ My first repository
 
 - [x] Watched the movie
 - [x] Loved the traps
-- [ ] Watch Home Alone 2
+- [x] Watch Home Alone 2
 
 ## Code Example
 
