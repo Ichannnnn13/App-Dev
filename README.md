@@ -4,9 +4,9 @@ My first repository
 
 ## About the Movie
 
-**Home Alone** is a *Christmas comedy* movie released in 1990. It is about Kevin McCallister, an 8-year-old boy who is accidentally left behind when his family goes on a trip to Paris. While alone, he has to protect his house from two burglars.
+**Home Alone** is a Christmas comedy movie released in 1990. It is about Kevin McCallister, an 8-year-old boy who is accidentally left behind when his family goes on a trip to Paris. While alone, he has to protect his house from two burglars.
 
-> "Keep the change, ya filthy animal."
+> "HOO HOO HOO, Merry Christmas."
 
 ---
 
@@ -46,9 +46,5 @@ My first repository
 Inline code: `kevin = "home alone"`
 
 ```python
-print("Merry Christmas, ya filthy animal!")
+print("HOO HOO HOO, Merry Christmas sir Red!!")
 ```
-
-## Learn More
-
-Read more about the movie on [Wikipedia](https://en.wikipedia.org/wiki/Home_Alone).
